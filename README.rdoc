@@ -1,4 +1,0 @@
-ruby tutorial sample microblogging app.
-Based on rupy totorial (http://railstutorial.org)
-
-Coded by Douglas Coombs
